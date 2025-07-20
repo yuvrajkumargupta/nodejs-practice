@@ -1,0 +1,14 @@
+{
+  "name": "events",
+  "version": "1.0.0",
+  "main": "traficlight.js",
+"scripts": {
+  "start": "node traffic.js"
+  
+}
+,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
